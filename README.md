@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner/my_banner_diana.gif">
+  <img src="banner/banner_diana.gif">
 </p>
 
 <!-- ## Hi  👋! I'm Diana Carhuamanta 🇵🇪 -->
