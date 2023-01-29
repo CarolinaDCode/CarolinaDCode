@@ -18,7 +18,7 @@
 	<a href="https://www.linkedin.com/in/diana-carhuamanta-824742165/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/carhuamantaibanez"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/c.diana03/?hl=es"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/D3Carolina"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<!--<a href="https://twitter.com/D3Carolina"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>-->
     <a href="https://dianacarhuamanta.medium.com/"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/></a>
 </p>
 
